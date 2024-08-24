@@ -1,0 +1,12 @@
+ (conda)env
+
+ sapi5
+ nsss
+ espeak
+ vosk
+ pyaudio
+ pyttsx3
+ pywin32
+ pywinauto
+ pyautogui
+ opencv
